@@ -1,0 +1,38 @@
+Lançada em Novembro de 2009
+
+Criadores Robert Griesemer, Rob Pike e Ken Thompson
+Go 1.0 Março 2012
+ - Livre e código aberto
+ - Focada em Desempenho
+ - Multiplataforma
+ - Altamente Escalável
+ - Compilada
+ - Garbage Collector
+ - Memory safe
+ - Simplista ao extremo, MESMO!
+
+
+Pontos de partida
+ - Eles trabalham muito com c, c++
+ - Google precisava de uma linguagem melhor para o seus produtos
+ - Limpa, pequena, compilada e moderna
+
+Princípios
+ - Simples, segura (memória) e legibilidade
+ - Mínima: uma forma de escrever um determinado tipo de código
+ - É consolidação e não inovação
+
+
+História das linguagens...
+ - Algol60, Pascal, C, Modula, Modula-2, Oberon, Oberon-2...
+ - C-like, Oberon structure
+
+ - OO, Generics, linguagens dinamicamente tipadas
+
+"Programas complexos em OO é a nova versão do 'spaghetti code' (goto em 1970)"
+
+ - inspirado no Smalltalk
+ - OO em Go: Métodos e Interfaces (únicas adições)
+
+Concorrência (NewSqueak - Rob Pike)
+
