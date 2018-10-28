@@ -1,0 +1,3 @@
+Go não é uma linguagem orientada a objeto...
+
+*Prefira composição ao invés de heranças*
